@@ -1,0 +1,2 @@
+from .desing_patterns.creational_patterns.singleton.openai_singleton import OpenAISingleton
+from .desing_patterns.creational_patterns.singleton. google_sheets_singleton import GoogleSheetSingleton
